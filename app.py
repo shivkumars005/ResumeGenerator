@@ -12,7 +12,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Initialize Groq client
 client = Groq(
-    GROQ_API_KEY=GROQ_API_KEY
+    api_key = GROQ_API_KEY
 )
 
 
