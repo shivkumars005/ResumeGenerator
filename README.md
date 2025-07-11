@@ -9,6 +9,10 @@ ResumeAI is a simple web application that helps users generate professional resu
 * Clean and formatted output (no preamble, no extra content)
 * Built with **Streamlit** for quick web deployment
 
+## 🌐 Hosted on Streamlit cloud
+
+* The project is live at [ResumeGenerater](https://resumegenerater.streamlit.app/)
+
 ## 🚀 How to Set Up
 
 ### 1️⃣ Clone the Repository
