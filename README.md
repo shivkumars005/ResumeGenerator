@@ -18,7 +18,7 @@ ResumeAI is a simple web application that helps users generate professional resu
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/shivkumars005/ResumeGenerator.git
+git clone https://github.com/shivakumarsouta/ResumeGenerator.git
 cd ResumeGenerator
 ```
 
@@ -53,7 +53,7 @@ Visit `http://localhost:8501` in your browser.
 
 #### Try this prompt : 
 ```
-Name: Shiva Kumar Souta, Email: shivakumarsouta18@gmail.com, Phone: +919876543210, GitHub: https://github.com/shivkumars005, LinkedIn: https://linkedin.com/in/shivakumarsouta.  For more, my Portfolio: https://shivakumarsouta-portfolio.vercel.app  
+Name: Shiva Kumar Souta, Email: shivakumarsouta18@gmail.com, Phone: +919876543210, GitHub: https://github.com/shivakumarsouta, LinkedIn: https://linkedin.com/in/shivakumarsouta.  For more, my Portfolio: https://shivakumarsouta-portfolio.vercel.app  
 He is an AI & ML Final year student at KGRCET, Hyderabad, with a CGPA of 8.7 and has worked on many projects related to ML, Data Science and front end.
 He did not do any internships but has experience as he worked on projects.
 He knows python, java, c and knows tools like Git.
@@ -101,4 +101,4 @@ Feel free to fork, customize, and use in your own projects.
 
 ## 📞 Contact
 
-[LinkedIn](https://linkedin.com/in/shivakumarsouta) | [GitHub](https://github.com/shivkumars005) | [Mail me](shivakumarsouta18@gmail.com) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
+[LinkedIn](https://linkedin.com/in/shivakumarsouta) | [GitHub](https://github.com/shivakumarsouta) | [Mail me](shivakumarsouta18@gmail.com) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
